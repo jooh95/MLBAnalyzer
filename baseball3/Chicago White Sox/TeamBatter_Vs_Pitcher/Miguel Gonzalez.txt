@@ -1,0 +1,6 @@
+Randall_Delgado	2	2	0	0	0	0	0	0	1	0	0	0	0	0	0	0	0	1
+Francisco_Liriano	2	2	0	0	0	0	0	0	1	0	0	0	0	0	0	0	0	0
+Eric_Stults	2	1	0	0	0	0	0	0	0	0	0	0	0	1	0	0	0	0
+Tsuyoshi_Wada	2	2	0	0	0	0	0	0	1	0	0	0	0	0	0	0	0	0
+Jared_Hughes	1	1	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0
+Tom_Koehler	1	1	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0

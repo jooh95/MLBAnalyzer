@@ -1,0 +1,7 @@
+Clayton_Kershaw	3	2	0	0	0	0	0	0	2	0	0	0	0	1	0	0	0	0
+Jon_Lester	3	3	0	0	0	0	0	0	1	0	0	0	0	0	0	0	0	0
+Ryan_Vogelsong	3	3	0	0	0	0	0	0	2	0	0	0	0	0	0	0	0	0
+Mike_Fiers	2	2	0	0	0	0	0	0	2	0	0	0	0	0	0	0	0	0
+Lance_Lynn	2	2	1	0	0	0	0	0	0	0.5	0.5	0.5	1	0	0	0	0	0
+Randy_Choate	1	1	0	0	0	0	0	0	1	0	0	0	0	0	0	0	0	0
+Will_Smith	1	1	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0

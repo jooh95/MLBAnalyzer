@@ -1,0 +1,8 @@
+Johnny_Cueto	2	1	1	0	0	0	0	0	0	1	1	1	2	1	0	0	0	0
+Zach_Duke	2	1	0	0	0	0	0	0	1	0	0	0	0	1	0	0	0	0
+Tim_Hudson	2	2	0	0	0	0	0	0	2	0	0	0	0	0	0	0	0	0
+Jonathan_Sanchez	2	2	0	0	0	0	0	0	1	0	0	0	0	0	0	0	0	0
+Santiago_Casilla	1	1	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0
+Alberto_Castillo	1	1	0	0	0	0	0	0	1	0	0	0	0	0	0	0	0	0
+Ryan_Mattheus	1	0	0	0	0	0	0	0	0	0	0	0	0	1	0	0	0	0
+Joe_Paterson	1	0	0	0	0	0	0	0	0	0	0	0	0	1	0	0	0	0

@@ -1,0 +1,12 @@
+Chris_Capuano	Chris Capuano	3	2	0	0	0	0	0	0	2	0	0	0	0	1	0	0	0	0
+Franklin_Morales	Franklin Morales	3	3	0	0	0	0	0	0	1	0	0	0	0	0	0	0	0	0
+Jimmy_Nelson	Jimmy Nelson	3	2	0	0	0	0	0	0	0	0	0	0	0	1	0	0	0	0
+Jake_Arrieta	Jake Arrieta	2	2	0	0	0	0	0	0	1	0	0	0	0	0	0	0	0	0
+Cole_Hamels	Cole Hamels	2	2	0	0	0	0	0	0	1	0	0	0	0	0	0	0	0	0
+Clayton_Kershaw	Clayton Kershaw	2	2	0	0	0	0	0	0	2	0	0	0	0	0	0	0	0	0
+John_Lackey	John Lackey	2	2	0	0	0	0	0	0	2	0	0	0	0	0	0	0	0	0
+Charlie_Morton	Charlie Morton	2	2	0	0	0	0	0	0	2	0	0	0	0	0	0	0	0	0
+Jake_Peavy	Jake Peavy	2	2	0	0	0	0	0	0	1	0	0	0	0	0	0	0	0	0
+Jeff_Samardzija	Jeff Samardzija	2	1	0	0	0	0	0	0	0	0	0	0	0	1	0	0	0	0
+Adam_Wainwright	Adam Wainwright	2	1	0	0	0	0	0	1	1	0	0.5	0	0.5	0	0	0	0	0
+Wilton_Lopez	Wilton Lopez	1	1	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0

@@ -1,0 +1,14 @@
+Ryan_Dempster	4	3	0	0	0	0	0	0	1	0	0	0	0	1	0	0	0	0
+Zach_Duke	4	4	0	0	0	0	0	0	1	0	0	0	0	0	0	0	0	0
+Josh_Beckett	3	3	1	0	0	0	0	0	1	0.333	0.333	0.333	0.667	0	0	0	0	0
+Jonathan_Pettibone	3	2	0	0	0	0	0	0	1	0	0	0	0	1	0	0	0	0
+Matt_Cain	2	1	0	0	0	0	0	1	0	0	0.5	0	0.5	0	0	0	0	0
+Kyle_Kendrick	2	2	0	0	0	0	0	0	2	0	0	0	0	0	0	0	0	0
+Clayton_Kershaw	2	2	0	0	0	0	0	0	1	0	0	0	0	0	0	0	0	1
+Ted_Lilly	2	2	0	0	0	0	0	0	1	0	0	0	0	0	0	0	0	0
+Shawn_Camp	1	1	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0
+Scott_Feldman	1	0	0	0	0	0	0	0	0	0	0	0	0	1	0	0	0	0
+Angel_Guzman	1	1	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0
+Javier_Lopez	1	1	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0
+Micah_Owings	1	1	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0
+Cory_Wade	1	1	1	0	0	0	0	0	0	1	1	1	2	0	0	0	0	0

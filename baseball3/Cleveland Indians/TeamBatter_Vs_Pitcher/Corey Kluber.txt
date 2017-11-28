@@ -1,0 +1,12 @@
+Chase_Anderson	2	2	1	0	0	0	0	0	1	0.5	0.5	0.5	1	0	0	0	0	0
+Anthony_DeSclafani	2	2	0	0	0	0	0	0	1	0	0	0	0	0	0	0	0	0
+Cole_Hamels	2	2	0	0	0	0	0	0	1	0	0	0	0	0	0	0	0	0
+Dan_Haren	2	1	0	0	0	0	0	0	0	0	0	0	0	1	0	0	0	0
+Jon_Lester	2	2	0	0	0	0	0	0	1	0	0	0	0	0	0	0	0	1
+Adam_Morgan	2	2	1	1	0	0	0	0	1	0.5	0.5	1	1.5	0	0	0	0	0
+Nathan_Adcock	1	1	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0
+Andrew_Bailey	1	0	0	0	0	0	0	0	0	0	0	0	0	1	0	0	0	0
+Josh_Collmenter	1	1	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0
+Jumbo_Diaz	1	1	0	0	0	0	0	0	1	0	0	0	0	0	0	0	0	0
+Chad_Durbin	1	0	0	0	0	0	0	1	0	0	1	0	0	0	0	0	0	0
+Zeke_Spruill	1	1	0	0	0	0	0	0	1	0	0	0	0	0	0	0	0	0

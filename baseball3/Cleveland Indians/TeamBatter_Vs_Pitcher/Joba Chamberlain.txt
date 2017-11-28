@@ -1,0 +1,7 @@
+Shawn_Chacon	2	2	0	0	0	0	0	0	1	0	0	0	0	0	0	0	0	0
+Zach_Duke	2	0	0	0	0	0	0	1	0	0	1	0	0	1	0	0	0	0
+T.J._Beam	1	1	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0
+Jeff_Bennett	1	0	0	0	0	0	0	0	0	0	0	0	0	1	0	0	0	0
+Kenshin_Kawakami	1	1	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0
+Kris_Medlen	1	1	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0
+Matt_Stites	1	1	0	0	0	0	0	0	1	0	0	0	0	0	0	0	0	0

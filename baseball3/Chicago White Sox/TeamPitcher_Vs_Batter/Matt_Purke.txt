@@ -1,0 +1,17 @@
+Chris_Gimenez	2	2	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0
+Michael_Martinez	2	2	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0
+Carlos_Santana	2	2	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0
+Juan_Uribe	2	2	1	0	0	0	0	0	0	0.5	0.5	0.5	1	0	0	0	0	0
+Marlon_Byrd	1	1	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	1
+Lorenzo_Cain	1	1	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0
+Lonnie_Chisenhall	1	1	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0
+Cheslor_Cuthbert	1	1	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0
+Rajai_Davis	1	1	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0
+Alcides_Escobar	1	1	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0
+Alex_Gordon	1	1	0	0	0	0	0	0	1	0	0	0	0	0	0	0	0	0
+Omar_Infante	1	1	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0
+Jason_Kipnis	1	1	1	0	0	0	1	0	0	1	1	1	2	0	0	0	0	0
+Francisco_Lindor	1	1	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0
+Paulo_Orlando	1	1	1	0	0	0	0	0	0	1	1	1	2	0	0	0	0	0
+Salvador_Perez	1	1	1	0	0	0	0	0	0	1	1	1	2	0	0	0	0	0
+Jose_Ramirez	1	1	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0

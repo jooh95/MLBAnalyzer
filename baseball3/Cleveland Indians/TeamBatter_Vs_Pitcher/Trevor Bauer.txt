@@ -1,0 +1,12 @@
+Jake_Arrieta	2	2	1	0	0	0	0	0	1	0.5	0.5	0.5	1	0	0	0	0	0
+Chris_Capuano	2	1	0	0	0	0	0	0	1	0	0	0	0	1	0	0	0	0
+Jerad_Eickhoff	2	1	0	0	0	0	0	0	1	0	0	0	0	1	0	0	0	0
+Charlie_Morton	2	2	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0
+Hyun-jin_Ryu	2	2	0	0	0	0	0	0	2	0	0	0	0	0	0	0	0	0
+Antonio_Bastardo	1	0	0	0	0	0	0	1	0	0	1	0	0	0	0	0	0	0
+Alex_Cobb	1	1	0	0	0	0	0	0	1	0	0	0	0	0	0	0	0	0
+Johnny_Cueto	1	1	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0
+Edwin_Jackson	1	1	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0
+Jair_Jurrjens	1	1	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0
+Mike_Leake	1	1	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0
+Ross_Ohlendorf	1	1	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0

@@ -1,0 +1,6 @@
+Buddy_Carlyle	2	2	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0
+Jose_Fernandez	2	2	0	0	0	0	0	0	1	0	0	0	0	0	0	0	0	0
+Dillon_Gee	2	2	0	0	0	0	0	0	1	0	0	0	0	0	0	0	0	0
+Eric_Stults	2	2	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	1
+Cole_Hamels	1	1	0	0	0	0	0	0	1	0	0	0	0	0	0	0	0	0
+Ethan_Martin	1	1	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0

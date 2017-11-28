@@ -1,0 +1,4 @@
+Marco_Estrada	1	1	0	0	0	0	0	0	1	0	0	0	0	0	0	0	0	0
+Tim_Lincecum	1	1	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0
+Brandon_McCarthy	1	1	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0
+Eric_Stults	1	0	0	0	0	0	0	0	0	0	0	0	0	1	0	0	0	0

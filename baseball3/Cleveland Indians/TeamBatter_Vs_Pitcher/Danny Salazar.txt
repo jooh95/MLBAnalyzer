@@ -1,0 +1,6 @@
+Gerrit_Cole	2	2	0	0	0	0	0	0	2	0	0	0	0	0	0	0	0	0
+Matt_Garza	2	2	0	0	0	0	0	0	2	0	0	0	0	0	0	0	0	0
+Vincent_Velasquez	2	2	0	0	0	0	0	0	1	0	0	0	0	0	0	0	0	0
+Ryan_Vogelsong	2	2	0	0	0	0	0	0	2	0	0	0	0	0	0	0	0	0
+Alex_Wood	2	2	0	0	0	0	0	0	2	0	0	0	0	0	0	0	0	0
+Mat_Latos	1	1	0	0	0	0	0	0	1	0	0	0	0	0	0	0	0	0

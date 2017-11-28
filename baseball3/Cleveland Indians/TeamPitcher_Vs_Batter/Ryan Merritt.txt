@@ -1,0 +1,9 @@
+Elvis_Andrus	2	2	1	0	0	0	0	0	0	0.5	0.5	0.5	1	0	0	0	0	0
+Bryan_Holaday	2	2	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0
+Jurickson_Profar	2	2	0	0	0	0	0	0	2	0	0	0	0	0	0	0	0	0
+Ryan_Rua	2	2	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	2
+Adrian_Beltre	1	1	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0
+Ian_Desmond	1	1	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0
+Prince_Fielder	1	1	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0
+Nomar_Mazara	1	1	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0
+Mitch_Moreland	1	1	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0
